@@ -6,8 +6,11 @@ Desde 2020, tenho estado imersa no mundo do UX/UI design, programação e agora 
 Este repositório é um fork do projeto original [dio-lab-open-source], onde estou contribuindo.
 
 **Meus Interesses e Habilidades:**
+
 UX/UI Design: Ao longo dos anos, desenvolvi habilidades em criar interfaces amigáveis e experiências de usuário envolventes.
+
 Programação: Tenho experiência em HTML, CSS e JavaScript. Agora estou estudando Python e R para aplicar em Ciências de Dados.
+
 Dados e Aprendizado de Máquinas: Estou em uma jornada de aprendizado para entender melhor como os dados podem ser analisados, interpretados e utilizados para criar modelos de aprendizado de máquinas eficazes.
 
 **Entre em Contato:**
